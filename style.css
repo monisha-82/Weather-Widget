@@ -36,7 +36,7 @@ body {
     font-size: 20px;
     text-transform: capitalize;
     color: #000;
-    background-color: #47c1f1;
+    background-color: #bfebfd;
     padding: 12px 16px;
     border-radius: 14px;
 }
@@ -48,7 +48,7 @@ body {
 .search-box button {
     width: 46px;
     height: 46px;
-    background-color: #75d2f7;
+    background-color: #bfebfd;
     border-radius: 50%;
     cursor: pointer;
     font-size: 20px;
